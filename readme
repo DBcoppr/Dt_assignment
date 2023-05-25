@@ -1,0 +1,9 @@
+used mongoDb for the database
+## .env modify
+change monogodbURI with yours
+
+## npm install
+To install all the dependency
+
+## npm start 
+To start the server
